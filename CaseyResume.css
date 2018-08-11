@@ -1,0 +1,25 @@
+body{
+    background-color:#ebd5b3;
+    font-family:Georgia;
+    text-align:center
+
+}
+
+header{
+    border-bottom-width: 100px;
+
+}
+
+.contact{
+    display:inline;
+    padding:5px;
+    height:100px;
+    widows: 80%;
+    border:50px black;
+}
+
+.section{
+    border-bottom:12px black;
+    
+
+}
